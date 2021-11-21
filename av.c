@@ -27,7 +27,7 @@ sum= A*B*C;
 
  //Divided calculation
  sum= A/B/C;
- printf("The div is: %d\n",sum);
+ printf("The  div is: %d\n",sum);
 
 
 
