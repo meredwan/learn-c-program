@@ -32,7 +32,7 @@ sum= A*B*C;
 
 
 
-  return 0;
+  getch ();
 }
 
 
