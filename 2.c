@@ -8,7 +8,7 @@ int main()
 
     if(num%2==0)
         printf("Even\n");
-    if(num%2!=0)
+    else
         printf("Odd");
     return 0;
 }
